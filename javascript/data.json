@@ -1,5 +1,5 @@
-{
-    "employee1" : {
+[
+    {
         "name" : "Aakriti Kashyap",
         "designation" : "Front End - Intern",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -12,7 +12,7 @@
     },
 
 
-    "employee2" : {
+    {
         "name" : "Ravi Dhiman",
         "designation" : "Front End Developer",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -25,7 +25,7 @@
     },
 
 
-    "employee3" : {
+    {
         "name" : "Sanyam Bansal",
         "designation" : "Back End Developer",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -38,7 +38,7 @@
     },
 
 
-    "employee4" : {
+    {
         "name" : "Pankul Mittal",
         "designation" : "Back End Developer",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -51,7 +51,7 @@
     },
 
 
-    "employee5" : {
+    {
         "name" : "Eshaan Ravish",
         "designation" : "Phython Developer",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -64,7 +64,7 @@
     },
 
 
-    "employee6" : {
+    {
         "name" : "Pushp sharma",
         "designation" : "Business Development",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -77,7 +77,7 @@
     },
 
 
-    "employee7" : {
+    {
         "name" : "Lakshay Lakhani",
         "designation" : "Back End Development",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -90,7 +90,7 @@
     },
 
 
-    "employee8" : {
+    {
         "name" : "Ankit Bhati",
         "designation" : "Back End - Intern",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -102,7 +102,7 @@
         ]
     },
 
-    "employee9" : {
+    {
         "name" : "Asif Akhtar",
         "designation" : "Back End Developer",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -115,7 +115,7 @@
     },
 
 
-    "employee10" : {
+    {
         "name" : "Nitish Kansal",
         "designation" : "Back End Developer",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.",
@@ -127,4 +127,4 @@
         ]
     }
 
-};
+];
